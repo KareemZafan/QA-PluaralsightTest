@@ -7,10 +7,5 @@ public class Main {
 
         List<String> sourceControlTools = new ArrayList<>();
         sourceControlTools.addAll(List.of("git","mercurial","svn","bazaar"));
-
-        for (String tool:sourceControlTools) {
-            System.out.println(tool);
-        }
-
     }
 }
