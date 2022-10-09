@@ -6,11 +6,13 @@ public class Main {
     public static void main(String[] args) {
 
         List<String> sourceControlTools = new ArrayList<>();
-        sourceControlTools.addAll(List.of("git","mercurial","svn","bazaar"));
+        sourceControlTools.addAll(List.of("git","mercurial","svn","bazaar","newTool"));
 
         for (String tool:sourceControlTools) {
             System.out.println(tool);
         }
+
+        /** end of file */
 
     }
 }
