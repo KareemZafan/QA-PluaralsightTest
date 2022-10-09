@@ -1,2 +1,0 @@
-Git is a great source control tool, 
-GitHub is a great web hosting site repositorty. 
