@@ -1,0 +1,1 @@
+{"uuid":"09275c09-95b1-4d76-9bf2-08906a6fd1c1","name":"tests.LoginPageTests","children":["80596036-6fab-4769-a2a1-7dc8c849184f"],"befores":[{"name":"openLink","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1671909494269,"stop":1671909495242}],"afters":[],"start":1671909494225,"stop":1671909497095}
